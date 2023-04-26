@@ -1,2 +1,2 @@
-# FunctionUp_mypractice
+# Funup
 It's a practice projects for functionUp
