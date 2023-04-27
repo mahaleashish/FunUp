@@ -1,5 +1,5 @@
 import './App.css';
-import Counter from './component/Counter';
+import NameUpdater from './component/NameUpdater';
 
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
 
     return (
         <div className="App">
-            <Counter />
+            <NameUpdater />
         </div>
     );
 }
