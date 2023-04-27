@@ -1,15 +1,12 @@
 import './App.css';
-import NameUpdater from './component/NameUpdater';
+import LuckyNumber from './component/LuckyNumber';
+
 
 function App() {
 
-
-
-
-
     return (
         <div className="App">
-            <NameUpdater />
+            <LuckyNumber />
         </div>
     );
 }
