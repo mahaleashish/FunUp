@@ -37,3 +37,17 @@
         transform: rotate(360deg);
     }
 }
+.user-cards{
+    flex: auto;
+    color: rgb(168, 23, 30);
+    border: black;
+    background-color: rgb(14, 194, 83);
+    flex-wrap: wrap;
+}
+
+.user-card{
+    color: blue;
+    border-style: double;
+    border-color: black;
+    border-radius: 10px;
+}
