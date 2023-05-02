@@ -1,12 +1,13 @@
 import './App.css';
-import LuckyNumber from './component/LuckyNumber';
-
+import Useeffect from './Useeffect';
 
 function App() {
 
+
+
     return (
         <div className="App">
-            <LuckyNumber />
+            <Useeffect />
         </div>
     );
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -14,3 +14,13 @@ root.render(
 );
 
 reportWebVitals();
+// import Heading from './Heading';
+
+// ReactDOM.render(
+//   <>
+//   <Heading/>
+//   <h1>Hello sir, good morning</h1>
+    
+//   </>
+//   , document.getElementById('root')
+// );
