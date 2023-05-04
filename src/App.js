@@ -1,11 +1,11 @@
 // import logo from './logo.svg';
 import './App.css';
-import Axiosotp from './AxiosOTP';
+import Dog from './DogAxios';
 
 function App() {
   return (
           <>
-          <Axiosotp/>
+      <Dog/>
           </>   
   );
 }
