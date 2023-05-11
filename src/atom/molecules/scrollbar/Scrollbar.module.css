@@ -1,0 +1,27 @@
+.wrapper {
+    border: 5px solid black;
+    display: flex;
+    text-align: center;
+    width: 90%;
+    height: 450px;
+    overflow: auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+    ::-webkit-scrollbar {
+        width: 8px;
+    }
+
+}
+
+.wrapper::-webkit-scrollbar {
+    width: 8px;
+    border-radius: 4px;
+}
+
+/* .wrapper::-webkit-scrollbar {
+
+    border-radius: 4px;
+} */

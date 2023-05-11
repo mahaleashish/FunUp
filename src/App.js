@@ -1,16 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
-import Header from './header/Header';
+import ScrollBar from './atom/molecules/scrollbar/Scrollbar';
 
 function App() {
   return (
           <>
-      <Header/>
+      <ScrollBar />
           </>   
   );
 }
 
 export default App;
-
-
-
