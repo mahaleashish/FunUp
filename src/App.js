@@ -1,11 +1,11 @@
 // import logo from './logo.svg';
 import './App.css';
-import ScrollBar from './atom/molecules/scrollbar/Scrollbar';
+import Tic from './atom/molecules/tictactoe/Tic';
 
 function App() {
   return (
           <>
-      <ScrollBar />
+      <Tic/>
           </>   
   );
 }
