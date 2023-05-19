@@ -1,12 +1,17 @@
-// import logo from './logo.svg';
 import './App.css';
-import Tic from './atom/molecules/tictactoe/Tic';
+// import Quiz from './components/atom/quizApp/Quiz.js';
+import Quiz from './components/atom/quizApp/Quiz';
+
 
 function App() {
+
+
+
   return (
-          <>
-      <Tic/>
-          </>   
+    <div className="App">
+      <Quiz />
+
+    </div>
   );
 }
 

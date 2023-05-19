@@ -1,0 +1,13 @@
+.wrapper {
+    border: 1px solid;
+    width: 340px;
+    height: 400px;
+    background-color: rgb(158, 80, 173);
+    border-radius: 20px;
+    border-color: rgb(223, 175, 230);
+
+}
+
+.wrapper p {
+    font-size: 12px;
+}

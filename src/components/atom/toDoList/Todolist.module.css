@@ -1,0 +1,8 @@
+.main{
+
+    background-color: rgb(167, 197, 204);
+    display: flex;
+    /* height: auto; */
+    width: 100%;
+    /* border: solid; */
+}
